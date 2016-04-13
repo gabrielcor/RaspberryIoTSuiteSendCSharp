@@ -128,10 +128,9 @@ namespace AzureIoTSuiteUWPDevice
 
         }
 
-        const string const_deviceId = "beacon42_001";
+        const string const_deviceId = "beacon42_000";
         const string const_hostName = "Pi2SuiteGC.azure-devices.net";
-        const string const_deviceKey = "Ho6Yyy9NePlNiiPaDZn2zQ==";
-
+        const string const_deviceKey = "-";
         private string deviceId;
         private string hostName;
         private string deviceKey;
